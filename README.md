@@ -34,6 +34,8 @@ aziende che si registrano al sito, con il relativo documento di richiesta
  
 ### Immagini
 ![](<https://github.com/StephanXV/internship_tutor/blob/master/Screenshots/home_anonimo.gif>)
+ \
+<br/>
 ![](<https://github.com/StephanXV/internship_tutor/blob/master/Screenshots/home_azienda.gif>)
 
 
